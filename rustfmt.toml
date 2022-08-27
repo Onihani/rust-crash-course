@@ -1,5 +1,3 @@
 version = "Two"
-error_on_line_overflow = true
-error_on_unformatted = true
 hard_tabs = false
 tab_spaces = 2
