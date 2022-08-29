@@ -5,6 +5,8 @@
     "editor.defaultFormatter": "rust-lang.rust-analyzer",
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
-    "editor.detectIndentation": true
+    "editor.detectIndentation": true,
+    "editor.wrappingStrategy": "advanced",
+    "editor.wordWrap": "bounded",
   }
 }
